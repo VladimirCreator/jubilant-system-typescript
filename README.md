@@ -1,2 +1,7 @@
 # jubilant-system-typescript
-`@VladimirCreator` decided to create this repository at 10:24 AM on Fri 23 Feb 2024.
+## Описание
+
+### Топики
+
+## Лицензия
+Этот пакет находится под влиянием лицензии [](LICENSE).
